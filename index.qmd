@@ -1,6 +1,6 @@
 ---
-title: "Chi Zhang"
-image: misc/info/photo.png
+title: "陈晨 Chen Chen"
+image: misc/info/myphoto.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,28 +8,40 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: chizapoth@gmail.com
-      href: mailto:chizapoth@gmail.com
+      text: chenchen@bjut.edu.cn
+      href: mailto:chenchen@bjut.edu.cn
     - icon: github
-      text: chizapoth
-      href: https://github.com/chizapoth
-    - icon: linkedin
-      text: Chi Zhang
-      href: https://www.linkedin.com/in/chizapoth/
+      text: ChenChenGith
+      href: https://github.com/ChenChenGith
+    - icon: bank2
+      text: 北京工业大学-研招网
+      href: https://yanzhao.bjut.edu.cn/info/1489/15982.htm
 ---
 
 ::: {#hero-heading}
+你好！我是陈晨。
 
-Hello! 
+博士，北京工业大学城市交通学院讲师，硕士生导师。
 
-I am a data scientist at Roche.
+中国汽车工程学会会员、中国汽车工程汽车工程学会人工智能分会委员。
 
-In a previous role, I worked at the Faculty of Medicine, University of Oslo. I'm mostly interested in **RWD (real-world data)**, such as hospital **Electronic Health Record** and large public health registry data. I develop [ggehr](https://chizapoth.github.io/ggehr/), a ggplot2 extension to visualizing EHR data.
+主持和参与国家自然科学基金、国家重点研发计划子课题、北京市/重庆市省部级科技计划项目10余项，以第一/通讯作者发表IEEE T-ITS、IEEE ITSM、AAP、Transportation Research Part F等期刊及国内外会议论文20余篇。
 
-In 2020-2022, I worked as part of the COVID emergency response at the [Norwegian Institute of Public Health](https://www.fhi.no/en/). I helped develop the open source real-time analysis and public health surveillance system, **Sykdomspulsen** (now [CSIDS](https://www.csids.no)). I am co-leading [CAMIS](https://psiaims.github.io/CAMIS/) working group. 
+我的研究聚焦于驾驶行为建模、驾驶风险评估、轨迹预测以及自动驾驶测试评价。我致力于构建一种新颖的理论框架，以揭示人类驾驶过程中感知与决策的基本机制，进而推动自动驾驶技术与以人为中心的交通出行系统的深度融合。
 
-As a part-time lecturer, I teach **statistics with R and Quarto** at Oslo Centre for Biostatistics and Epidemiology ([OCBE](https://www.med.uio.no/imb/english/research/centres/ocbe/)) and **R programming** at the [Carpentries workshops](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/) at UiO.
+目前，我在驾驶风险建模方面取得了初步进展，提出了一种名为PODAR（Potential Damage Risk，潜在损伤风险）的新框架，相关成果已发表于[IEEE T-ITS](https://doi.org/10.1109/MITS.2025.3542816)和[IEEE ITSM](https://doi.org/10.1109/TITS.2024.3379573)。
 
+---
 
-I enjoy cooking and spending time in the mountains.
+Hello! I am Chen Chen.
+
+Ph.D., lecturer and master's supervisor at the College of Metropolitan Transportation, Beijing University of Technology.
+
+Member of the China Society of Automotive Engineers, and member of the Artificial Intelligence Branch of the China Society of Automotive Engineers.
+
+I have led and participated in over 10 projects, including those funded by the National Natural Science Foundation of China, key sub-topics of the National Key R&D Program, and provincial/municipal-level scientific and technological programs of Beijing and Chongqing. I am the first or corresponding author of more than 20 research papers published in international journals such as IEEE T-ITS, IEEE ITSM, AAP, and Transportation Research Part F, as well as at domestic and international conferences.
+
+My research encompasses the modeling of driving behaviors, the evaluation of driving risks, trajectory forecasting, and the systematic assessment of autonomous driving systems. I aim to pioneer a novel framework that articulates the perceptual and decision-making mechanisms underpinning human driving, thereby advancing the integration of autonomy with human-centric mobility solutions.
+
+Now, I have made a small step in aspect of the driving risk modeling. A new framework called PODAR (**Po**tential **Da**mage **R**isk) has been proposed, see my papers published on [IEEE T-ITS](https://doi.org/10.1109/MITS.2025.3542816) and [IEEE ITSM](https://doi.org/10.1109/TITS.2024.3379573). 
 :::
