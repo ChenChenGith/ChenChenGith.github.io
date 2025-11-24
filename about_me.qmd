@@ -63,7 +63,7 @@ about:
 2. **Chen, Chen**, Zhipeng Liu, Weiqiang Liang, Mingming Wang, Zhiqian Lan, Guojian Zhan, Yao Lyu, Bingbing Nie, and Shengbo Eben Li*. "PODAR: A Collision Risk Model Offering Valid Signals for Vehicular Interactions." IEEE Intelligent Transportation Systems Magazine (2025).
 3. 李升波 , **陈晨*** , 方叙之 , 兰志前 , 吕尧 , 占国建 , 聂冰冰 , 张放 , 张德兆. 自动驾驶车辆的驾驶行为能力评估指标体系综述[J]. 中国公路学报, 2025, 38(1): 304-323 https://doi.org/10.19721/j.cnki.1001-7372.2025.01.022（Sheng-bo LI , Chen CHEN , Xu-zhi FANG , Zhi-qian LAN , Yao LYU , Guo-jian ZHAN , Bing-bing NIE , Fang ZHANG , De-zhao ZHANG. Review of Indicator Systems for Driving Behavioral Ability Evaluation of Autonomous Vehicles[J]. China Journal of Highway and Transport, 2025, 38(1): 304-323 https://doi.org/10.19721/j.cnki.1001-7372.2025.01.022）
 4. 任文浩, 赵晓华, **陈晨***, 付强. 网联碰撞预警信息系统对雾天高速公路驾驶行为的影响[J]. 华南理工大学学报(自然科学版), 2025, 53(2): 27-37.（REN Wenhao, ZHAO Xiaohua, CHEN Chen, FU Qiang. Impact of Connected Collision Warning Information System on Freeway Driving Behavior in Foggy Conditions[J]. Journal of South China University of Technology(Natural Science Edition), 2025, 53(2): 27-37.）
-5. 付强, 赵晓华, **陈晨***，初高峰.  超视距预警对混驾编队人驾领航车的安全影响. 哈尔滨工业大学学报. [录用]
+5. 付强, 赵晓华, **陈晨**, 初高峰. "超视距预警对混驾编队人驾领航车的安全影响." 哈尔滨工业大学学报 57, no. 7 (2025): 52-60.
 6. Fu, Qiang, Xiaohua Zhao, Chen Chen*, and Wenhao Ren. "How predictive-forward-collision-warning reduces the collision risk of leading vehicle driver." Accident Analysis & Prevention 211 (2025): 107891.
 7. Chen, Haolin, Xiaohua Zhao, **Chen Chen***, Zhenlong Li, Haijian Li, and Jianguo Gong. "How to define the threshold of takeover response ability of different drivers in conditional automated driving." Transportation Research Part F: Traffic Psychology and Behaviour 106 (2024): 179-198.
 8. **Chen, Chen**, Zhiqian Lan, Guojian Zhan, Yao Lyu, Bingbing Nie, and Shengbo Eben Li. "Quantifying the individual differences of drivers’ risk perception via potential damage risk model." IEEE Transactions on Intelligent Transportation Systems 25, no. 7 (2024): 8093-8104.
@@ -85,8 +85,9 @@ about:
 
 ### 参与
 
+1. Li, Penghui; Yuan, Henan; Dong, Qianru; Yan, Ruidong; Dong,Chuniiao; *Chen, Chen*; li, shengbo Eben. Generation of High-Coverage Traffic Scenarios forEfficient Simulation Testing of Automated Driving Systems." Transactions on Intelligent Transportation Systems. [Accepted]
 1. Qin, Detong, Qingfan Wang, Quan Li, Tianle Lu, **Chen Chen**, Hong Wang, and Bingbing Nie. "When Do Drivers Maneuver: Experimental Investigation and Inference of Perception-Response Time for Tailored Safety Systems in Intelligent Vehicles." IEEE Transactions on Human-Machine Systems (2025). doi: 10.1109/THMS.2025.3567611.
-1. SEPT: Towards Efficient and Accurate Motion Prediction for Autonomous Driving. IEEE Computational Intelligence Magazine. [Accepted]
+1. Lan, Zhiqian, Yuxuan Jiang, Yao Mu, **Chen Chen**, and Shengbo Eben Li. "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction." In The Twelfth International Conference on Learning Representations.
 3. 李升波, 江昆, 田野, **陈晨**, 孙剑, 杨殿阁. 汽车智能驾驶技术发展与趋势展望[J]. 前瞻科技, 2025, 4(2): 144-157.（LI Shengbo, JIANG Kun, TIAN Ye, CHEN Chen, SUN Jian, YANG Diange. Development and Outlook of Intelligent Driving Technology[J]. Science and Technology Foresight, 2025, 4(2): 144-157.）
 4. Gao, Zeyu, Yao Mu, **Chen Chen**, Jingliang Duan, Ping Luo, Yanfeng Lu, and Shengbo Eben Li. "Enhance sample efficiency and robustness of end-to-end urban autonomous driving via semantic masked world model." IEEE Transactions on Intelligent Transportation Systems 25, no. 10 (2024): 13067-13079.
 5. Song, Xujie, Jingliang Duan, Wenxuan Wang, Shengbo Eben Li, **Chen Chen**, Bo Cheng, Bo Zhang, Junqing Wei, and Xiaoming Simon Wang. "Lipsnet: a smooth and robust neural network with adaptive lipschitz constant for high accuracy optimal control." In International Conference on Machine Learning, pp. 32253-32272. PMLR, 2023.
