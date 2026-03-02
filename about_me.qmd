@@ -43,45 +43,47 @@ about:
 
 ## 项目经历
 
-1. 参与，2024.12 – 2025.1，北京车网科技发展有限公司，示范区自动驾驶车辆数据研究及评价体系构建项目，48.23万，结题
-2. 参与，2024.10-2027.09，2024年度京津冀基础研究合作专项，智能网联汽车环境理解与风险推演关键技术研究，60万
-3. **主持，2024.09-2024.12，中关村中汽智能网联汽车产业创新联盟，智能驾驶智算数据平台发展及标准体系研究，15万，结题**
-4. **主持，2022.01-2024.12，自然科学基金青年基金项目，城市道路复杂交通环境下自动驾驶汽车行驶风险在线评估，30万，结题**
-5. 参与，2019.12-2021.12，政府间国际科技创新合作（中美），自动驾驶自主决策算法研究，92万，结题
-6. 参与，2019.08-2022.07，政府间国际科技创新合作（中瑞），面向行人安全的汽车主被动协同防护技术开发，66.73万，结题
-7. 参与，2017.01-2020.12，国家自然科学基金重点项目，面向城市交通场景的自动驾驶类脑决策规划研究与验证，260万，结题
-8. 参与，2022.06-2023.06，滴滴出行有限公司，用于自动驾驶仿真的道路交通参与者建模与测试验证，30万，结题
-9. 参与，2021.12-2024.12，长安汽车股份有限公司，复杂条件下自动驾驶实时优化问题的强化学习算法开发。258万，结题
-10. 参与，2020.11-2021.06，北京宇航系统工程研究所，基于深度强化学习的飞行器轨迹优化设计，30万，结题
-11. 参与，2022.12-2025.11，国家重点研发计划子课题，开放驾驶场景理解与自主决策迭代学习，802万，结题
+1. 参与，2024.04-2026.10，国家重点研发计划，人机博弈下的辅助驾驶系统操控行为解析技术研究，49.35万，在研
+2. 参与，2024.12 – 2025.1，北京车网科技发展有限公司，示范区自动驾驶车辆数据研究及评价体系构建项目，48.23万，结题
+3. 参与，2024.10-2027.09，2024年度京津冀基础研究合作专项，智能网联汽车环境理解与风险推演关键技术研究，60万
+4. **主持，2024.09-2024.12，中关村中汽智能网联汽车产业创新联盟，智能驾驶智算数据平台发展及标准体系研究，15万，结题**
+5. **主持，2022.01-2024.12，自然科学基金青年基金项目，城市道路复杂交通环境下自动驾驶汽车行驶风险在线评估，30万，结题**
+6. 参与，2019.12-2021.12，政府间国际科技创新合作（中美），自动驾驶自主决策算法研究，92万，结题
+7. 参与，2019.08-2022.07，政府间国际科技创新合作（中瑞），面向行人安全的汽车主被动协同防护技术开发，66.73万，结题
+8. 参与，2017.01-2020.12，国家自然科学基金重点项目，面向城市交通场景的自动驾驶类脑决策规划研究与验证，260万，结题
+9. 参与，2022.06-2023.06，滴滴出行有限公司，用于自动驾驶仿真的道路交通参与者建模与测试验证，30万，结题
+10. 参与，2021.12-2024.12，长安汽车股份有限公司，复杂条件下自动驾驶实时优化问题的强化学习算法开发。258万，结题
+11. 参与，2020.11-2021.06，北京宇航系统工程研究所，基于深度强化学习的飞行器轨迹优化设计，30万，结题
+12. 参与，2022.12-2025.11，国家重点研发计划子课题，开放驾驶场景理解与自主决策迭代学习，802万，结题
 
 ## 学术论文
 
 ### 一作/通讯
 
-1. Chen, Haolin, Xiaohua Zhao, **Chen Chen***, Zhenlong Li, Haijian Li, and Qiuhong Wang. "A systematic review on test performance of the driver takeover process in automated driving." Accident Analysis & Prevention 215 (2025): 108012.
-2. **Chen, Chen**, Zhipeng Liu, Weiqiang Liang, Mingming Wang, Zhiqian Lan, Guojian Zhan, Yao Lyu, Bingbing Nie, and Shengbo Eben Li*. "PODAR: A Collision Risk Model Offering Valid Signals for Vehicular Interactions." IEEE Intelligent Transportation Systems Magazine (2025).
-3. 李升波 , **陈晨*** , 方叙之 , 兰志前 , 吕尧 , 占国建 , 聂冰冰 , 张放 , 张德兆. 自动驾驶车辆的驾驶行为能力评估指标体系综述[J]. 中国公路学报, 2025, 38(1): 304-323 https://doi.org/10.19721/j.cnki.1001-7372.2025.01.022（Sheng-bo LI , Chen CHEN , Xu-zhi FANG , Zhi-qian LAN , Yao LYU , Guo-jian ZHAN , Bing-bing NIE , Fang ZHANG , De-zhao ZHANG. Review of Indicator Systems for Driving Behavioral Ability Evaluation of Autonomous Vehicles[J]. China Journal of Highway and Transport, 2025, 38(1): 304-323 https://doi.org/10.19721/j.cnki.1001-7372.2025.01.022）
-4. 任文浩, 赵晓华, **陈晨***, 付强. 网联碰撞预警信息系统对雾天高速公路驾驶行为的影响[J]. 华南理工大学学报(自然科学版), 2025, 53(2): 27-37.（REN Wenhao, ZHAO Xiaohua, CHEN Chen, FU Qiang. Impact of Connected Collision Warning Information System on Freeway Driving Behavior in Foggy Conditions[J]. Journal of South China University of Technology(Natural Science Edition), 2025, 53(2): 27-37.）
-5. 付强, 赵晓华, **陈晨**, 初高峰. "超视距预警对混驾编队人驾领航车的安全影响." 哈尔滨工业大学学报 57, no. 7 (2025): 52-60.
-6. Fu, Qiang, Xiaohua Zhao, Chen Chen*, and Wenhao Ren. "How predictive-forward-collision-warning reduces the collision risk of leading vehicle driver." Accident Analysis & Prevention 211 (2025): 107891.
-7. Chen, Haolin, Xiaohua Zhao, **Chen Chen***, Zhenlong Li, Haijian Li, and Jianguo Gong. "How to define the threshold of takeover response ability of different drivers in conditional automated driving." Transportation Research Part F: Traffic Psychology and Behaviour 106 (2024): 179-198.
-8. **Chen, Chen**, Zhiqian Lan, Guojian Zhan, Yao Lyu, Bingbing Nie, and Shengbo Eben Li. "Quantifying the individual differences of drivers’ risk perception via potential damage risk model." IEEE Transactions on Intelligent Transportation Systems 25, no. 7 (2024): 8093-8104.
-9. Chen Chen, Guanyao Tang, Zhiqian Lan, Guojian Zhan; Shengbo Eben Li. Road Traffic Risk Spots Detection by Aggregating Potential Damage Risk using Naturalistic Driving Data. 2023 中国汽车工程学会年会论文集.
-10. **Chen Chen**, Zhiqian Lan, Yao Lyu, Shengbo Eben Li. Establishing a Risk Threshold-driven Driver model Using the Potential Damage Risk model. FAST-zeri’23, 2023
-11. **Chen Chen**, Shengbo Eben Li, Andre Wijaya, Qi Sun,  and Jianhua Jiang. "Indicators for Self-driving Algorithm Performance Evaluation", FAST Zero’21, 2021.
-12. **Chen Chen**, Xiaohua Zhao, Jian Rong, Zhenlong Li, "Determination of Risky Driving Behavior Criteria using GPS data", TRB 99th Annual Meeting: No. 20-04670. 2020.
-13. **Chen, Chen**, Xiaohua Zhao, Yunlong Zhang, Jian Rong, and Xiaoming Liu. "A graphical modeling method for individual driving behavior and its application in driving safety analysis using GPS data." Transportation research part F: traffic psychology and behaviour 63 (2019): 118-134.
-14. **Chen, Chen**, Xiaohua Zhao, Hao Liu, Guichao Ren, Yunlong Zhang, and Xiaoming Liu. "Assessing the influence of adverse weather on traffic flow characteristics using a driving simulator and VISSIM." Sustainability 11, no. 3 (2019): 830.
-15. **Chen, Chen**, Xiaohua Zhao, Hao Liu, Guichao Ren, and Xiaoming Liu. "Influence of adverse weather on drivers’ perceived risk during car following based on driving simulations." Journal of modern transportation 27, no. 4 (2019): 282-292.
-16. **Chen, Chen**, Xiaohua Zhao, Yunlong Zhang, Jian Rong, and Xiaoming Liu, "A Graphical Modeling Method for Individual Driving Behavior and Its Application in Driving Safety Analysis", TRB 98th Annual Meeting: No. 19-05938. 2019.
-17. **Chen, Chen**, Xiaohua Zhao, Ying Yao, Yunlong Zhang, Jian Rong, and Xiaoming Liu. "Driver’s Eco‐Driving Behavior Evaluation Modeling Based on Driving Events." Journal of Advanced Transportation 2018, no. 1 (2018): 9530470.
-18. **Chen, Chen**, Xiaohua Zhao, Guichao Ren, Yunlong Zhang, Jian Rong, and Xiaoming Liu. "A Method of Combination of Driving Simulator and VISSIM to Research the Influence of Adverse Weather on Traffic Flow Characteristics ". TRB 97th Annual Meeting: No. 18-04581. 2018.
-19. **陈晨**, 赵晓华, 姚莹, and 荣建. "基于出租车运行数据的北京城市快速路油耗分布特征及影响因素分析." 北京工业大学学报 43, no. 12 (2017): 1900-1906.
-20. "Driving simulator + VISSIM simulation based traffic flow state evaluation platform for adverse weather", ITS World Congress 2017 APTP1204.
-21. 赵晓华, **陈晨**, 伍毅平, 荣建, 刘莹, 程颖, and 胡莹. "出租车驾驶员驾驶行为对油耗的影响及潜力分析." 交通运输系统工程与信息 15, no. 4 (2015): 85-91.
-22. **陈晨**, 赵晓华, 李振龙, 连培昆, and 荣建. "公交优先硬件在环测试评估平台设计." 道路交通与安全 14, no. 3 (2014): 47-51.
-23. Zhao, Xiao Hua, **Chen Chen**, and Jian Rong. "Evaluation of Signal Control Strategy Based on Hardware-in-the-Loop." In Applied Mechanics and Materials, vol. 505, pp. 1122-1126. Trans Tech Publications Ltd, 2014.
+1. Fu, Qiang, Xiaohua Zhao, **Chen Chen***, and Wenhao Ren. "Eco-safe coupling effectiveness of the connected mixed platoon in a car-following scenario: a driving simulation study." Transportmetrica B: Transport Dynamics 13, no. 1 (2025): 2544753.
+2. Chen, Haolin, Xiaohua Zhao, **Chen Chen***, Zhenlong Li, Haijian Li, and Qiuhong Wang. "A systematic review on test performance of the driver takeover process in automated driving." Accident Analysis & Prevention 215 (2025): 108012.
+3. **Chen, Chen**, Zhipeng Liu, Weiqiang Liang, Mingming Wang, Zhiqian Lan, Guojian Zhan, Yao Lyu, Bingbing Nie, and Shengbo Eben Li*. "PODAR: A Collision Risk Model Offering Valid Signals for Vehicular Interactions." IEEE Intelligent Transportation Systems Magazine (2025).
+4. 李升波 , **陈晨*** , 方叙之 , 兰志前 , 吕尧 , 占国建 , 聂冰冰 , 张放 , 张德兆. 自动驾驶车辆的驾驶行为能力评估指标体系综述[J]. 中国公路学报, 2025, 38(1): 304-323 https://doi.org/10.19721/j.cnki.1001-7372.2025.01.022（Sheng-bo LI , Chen CHEN , Xu-zhi FANG , Zhi-qian LAN , Yao LYU , Guo-jian ZHAN , Bing-bing NIE , Fang ZHANG , De-zhao ZHANG. Review of Indicator Systems for Driving Behavioral Ability Evaluation of Autonomous Vehicles[J]. China Journal of Highway and Transport, 2025, 38(1): 304-323 https://doi.org/10.19721/j.cnki.1001-7372.2025.01.022）
+5. 任文浩, 赵晓华, **陈晨***, 付强. 网联碰撞预警信息系统对雾天高速公路驾驶行为的影响[J]. 华南理工大学学报(自然科学版), 2025, 53(2): 27-37.（REN Wenhao, ZHAO Xiaohua, CHEN Chen, FU Qiang. Impact of Connected Collision Warning Information System on Freeway Driving Behavior in Foggy Conditions[J]. Journal of South China University of Technology(Natural Science Edition), 2025, 53(2): 27-37.）
+6. 付强, 赵晓华, **陈晨**, 初高峰. "超视距预警对混驾编队人驾领航车的安全影响." 哈尔滨工业大学学报 57, no. 7 (2025): 52-60.
+7. Fu, Qiang, Xiaohua Zhao, Chen Chen*, and Wenhao Ren. "How predictive-forward-collision-warning reduces the collision risk of leading vehicle driver." Accident Analysis & Prevention 211 (2025): 107891.
+8. Chen, Haolin, Xiaohua Zhao, **Chen Chen***, Zhenlong Li, Haijian Li, and Jianguo Gong. "How to define the threshold of takeover response ability of different drivers in conditional automated driving." Transportation Research Part F: Traffic Psychology and Behaviour 106 (2024): 179-198.
+9. **Chen, Chen**, Zhiqian Lan, Guojian Zhan, Yao Lyu, Bingbing Nie, and Shengbo Eben Li. "Quantifying the individual differences of drivers’ risk perception via potential damage risk model." IEEE Transactions on Intelligent Transportation Systems 25, no. 7 (2024): 8093-8104.
+10. Chen Chen, Guanyao Tang, Zhiqian Lan, Guojian Zhan; Shengbo Eben Li. Road Traffic Risk Spots Detection by Aggregating Potential Damage Risk using Naturalistic Driving Data. 2023 中国汽车工程学会年会论文集.
+11. **Chen Chen**, Zhiqian Lan, Yao Lyu, Shengbo Eben Li. Establishing a Risk Threshold-driven Driver model Using the Potential Damage Risk model. FAST-zeri’23, 2023
+12. **Chen Chen**, Shengbo Eben Li, Andre Wijaya, Qi Sun,  and Jianhua Jiang. "Indicators for Self-driving Algorithm Performance Evaluation", FAST Zero’21, 2021.
+13. **Chen Chen**, Xiaohua Zhao, Jian Rong, Zhenlong Li, "Determination of Risky Driving Behavior Criteria using GPS data", TRB 99th Annual Meeting: No. 20-04670. 2020.
+14. **Chen, Chen**, Xiaohua Zhao, Yunlong Zhang, Jian Rong, and Xiaoming Liu. "A graphical modeling method for individual driving behavior and its application in driving safety analysis using GPS data." Transportation research part F: traffic psychology and behaviour 63 (2019): 118-134.
+15. **Chen, Chen**, Xiaohua Zhao, Hao Liu, Guichao Ren, Yunlong Zhang, and Xiaoming Liu. "Assessing the influence of adverse weather on traffic flow characteristics using a driving simulator and VISSIM." Sustainability 11, no. 3 (2019): 830.
+16. **Chen, Chen**, Xiaohua Zhao, Hao Liu, Guichao Ren, and Xiaoming Liu. "Influence of adverse weather on drivers’ perceived risk during car following based on driving simulations." Journal of modern transportation 27, no. 4 (2019): 282-292.
+17. **Chen, Chen**, Xiaohua Zhao, Yunlong Zhang, Jian Rong, and Xiaoming Liu, "A Graphical Modeling Method for Individual Driving Behavior and Its Application in Driving Safety Analysis", TRB 98th Annual Meeting: No. 19-05938. 2019.
+18. **Chen, Chen**, Xiaohua Zhao, Ying Yao, Yunlong Zhang, Jian Rong, and Xiaoming Liu. "Driver’s Eco‐Driving Behavior Evaluation Modeling Based on Driving Events." Journal of Advanced Transportation 2018, no. 1 (2018): 9530470.
+19. **Chen, Chen**, Xiaohua Zhao, Guichao Ren, Yunlong Zhang, Jian Rong, and Xiaoming Liu. "A Method of Combination of Driving Simulator and VISSIM to Research the Influence of Adverse Weather on Traffic Flow Characteristics ". TRB 97th Annual Meeting: No. 18-04581. 2018.
+20. **陈晨**, 赵晓华, 姚莹, and 荣建. "基于出租车运行数据的北京城市快速路油耗分布特征及影响因素分析." 北京工业大学学报 43, no. 12 (2017): 1900-1906.
+21. "Driving simulator + VISSIM simulation based traffic flow state evaluation platform for adverse weather", ITS World Congress 2017 APTP1204.
+22. 赵晓华, **陈晨**, 伍毅平, 荣建, 刘莹, 程颖, and 胡莹. "出租车驾驶员驾驶行为对油耗的影响及潜力分析." 交通运输系统工程与信息 15, no. 4 (2015): 85-91.
+23. **陈晨**, 赵晓华, 李振龙, 连培昆, and 荣建. "公交优先硬件在环测试评估平台设计." 道路交通与安全 14, no. 3 (2014): 47-51.
+24. Zhao, Xiao Hua, **Chen Chen**, and Jian Rong. "Evaluation of Signal Control Strategy Based on Hardware-in-the-Loop." In Applied Mechanics and Materials, vol. 505, pp. 1122-1126. Trans Tech Publications Ltd, 2014.
 
 ### 参与
 
@@ -99,20 +101,29 @@ about:
 
 ## 知识产权
 
+### 专利
 1. 李升波，**陈晨**，孙琪，聂冰冰，成波，黄健芫，李泉；一种自动驾驶汽车的行车风险计算方法及在线评估系统，发明专利，清华大学，2021.04.21，中国，ZL202110430527.8 
-5. 李升波，**陈晨**，兰志前，占国建，朴盈汐，金东润；自动驾驶汽车大规模仿真平台，软件著作权，清华大学，2022.05.01，中国，2022SR1096429 
-6. 郑四发，李升波，葛强，马海铜，**陈晨**；异构交通主体动力学仿真软件，软件著作权，清华大学，2021.09.22，中国，2021SR1880543 
-2. 邵源，孙超，张俊峰，林培群，**陈晨**，严治；交通安全风险监控方法、装置、存储介质即计算机设备，发明专利，华南理工大学， 2021.10.29，中国，ZL20201075800839 
-3. 赵晓华，**陈晨**，伍毅平，姚莹，荣建，胡红；一种面向事件的驾驶员生态驾驶行为评估方法，发明专利，北京工业大学，2019.09.10，中国，ZL201610998585.X 
-4. 赵晓华，李振龙，杨旭东，荣建，关伟，**陈晨**；一种模块化交通信息与控制实验平台，实用新型专利，北京工业大学，2014.04.12，中国，ZL201420177348.3
-7. 赵晓华，**陈晨**，连培坤，李振龙；Transit-Lies公交优先信号控制策略评估系统，软件著作权，北京工业大学，2014.02.15，中国，2014SR074732
+2. 赵晓华，**陈晨**，伍毅平，姚莹，荣建，胡红；一种面向事件的驾驶员生态驾驶行为评估方法，发明专利，北京工业大学，2019.09.10，中国，ZL201610998585.X 
+3. 赵晓华，李振龙，杨旭东，荣建，关伟，**陈晨**；一种模块化交通信息与控制实验平台，实用新型专利，北京工业大学，2014.04.12，中国，ZL201420177348.3
+4. 邵源，孙超，张俊峰，林培群，**陈晨**，严治；交通安全风险监控方法、装置、存储介质即计算机设备，发明专利，华南理工大学， 2021.10.29，中国，ZL20201075800839 
+5. 李升波、**陈晨**、朴盈汐、熊杰、易穗荣、冉启帆、蒋北艳、郜嘉鑫、余荣杰（同济），殷智帅（武汉理工）；一种城市道路机动车辆的异常驾驶行为建模方法，发明专利[申请]
+5. 李升波，易穗荣，**陈晨**，王立坤，朴盈汐，熊杰；一种行人与非机动车微观行为建模方法，[申请] 
+6.	李升波，**陈晨**，吕尧，兰志前，朴盈汐，聂冰冰，成波；一种自动驾驶汽车行驶风险模型的参数标定方法，发明专利，202310249358.7，[申请]
+7.	李升波，**陈晨**，汤光耀，兰志前，成波，夏洋，张放，王肖；一种交通参与者运行轨迹时空分布包络的预测计算方法，发明专利，202310320169.4，[申请]
+8.	李升波、成波、熊杰、**陈晨**、朴盈汐、王立坤、贾星衡、殷玉明、黄岩军、陈虹；一种结构化道路车辆的微观交通行为建模方法，[申请]
+   
+### 软件著作权
+1. 李升波，**陈晨**，兰志前，占国建，朴盈汐，金东润；自动驾驶汽车大规模仿真平台，软件著作权，清华大学，2022.05.01，中国，2022SR1096429 
+2. 郑四发，李升波，葛强，马海铜，**陈晨**；异构交通主体动力学仿真软件，软件著作权，清华大学，2021.09.22，中国，2021SR1880543 
+3.  赵晓华，**陈晨**，连培坤，李振龙；Transit-Lies公交优先信号控制策略评估系统，软件著作权，北京工业大学，2014.02.15，中国，2014SR074732
 
 ## 获奖情况
 
-1. 赵晓华，伍毅平，**陈晨**，姚莹，张云龙，边扬，翁剑成；面向驾驶员个体倾向的生态驾驶行为判别与差别化反馈技术及应用，中国智能交通协会，中国智能交通协会科学技术奖，三等奖，2017. 
-2. 2019年，北京市，博士优秀毕业生（1人/学院）
-3. 2018年，北京工业大学，研究生科技创新奖一等奖、二等奖 
-4. 2016年，北京工业大学，优秀硕士学位论文（2人/学院）、优秀毕业生（2人/学院）
+1. 李朝斌、刘延、**陈晨**、刘铜阳、漆奇、边扬、黄俊富、唐秋阳、程前、赵晓华；基于虚实融合的智能辅助人机交互系统测试评价关键技术及应用，中国智能交通协会，中国智能交通协会科学技术奖，二等奖，2025.
+2. 赵晓华，伍毅平，**陈晨**，姚莹，张云龙，边扬，翁剑成；面向驾驶员个体倾向的生态驾驶行为判别与差别化反馈技术及应用，中国智能交通协会，中国智能交通协会科学技术奖，三等奖，2017. 
+3. 2019年，北京市，博士优秀毕业生（1人/学院）
+4. 2018年，北京工业大学，研究生科技创新奖一等奖、二等奖 
+5. 2016年，北京工业大学，优秀硕士学位论文（2人/学院）、优秀毕业生（2人/学院）
 
 ## 标准编制
 
