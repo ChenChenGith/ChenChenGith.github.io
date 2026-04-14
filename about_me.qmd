@@ -87,17 +87,18 @@ about:
 
 ### 参与
 
-1. Li, Penghui; Yuan, Henan; Dong, Qianru; Yan, Ruidong; Dong,Chuniiao; *Chen, Chen*; li, shengbo Eben. Generation of High-Coverage Traffic Scenarios forEfficient Simulation Testing of Automated Driving Systems." Transactions on Intelligent Transportation Systems. [Accepted]
-1. 李升波, 李弘扬, 赵行, 蔡英凤, 朱冰, 陶吉, 汪建球, 帅斌, **陈晨**, 郜嘉鑫, 赵菲, 李杰, 刘擎超, 张培兴, 李克强. 面向端到端自动驾驶系统的多模态协同优化与训练技术演进路径. 中国科学: 技术科学, 2025, 55(10): 1638–1658. DOI: 10.1360/SST-2025-0063 (LI ShengBo, LI HongYang, ZHAO Hang, CAI YingFeng, ZHU Bing, TAO Ji, WANG JianQiu, SHUAI Bin, CHEN Chen, GAO JiaXin, ZHAO Fei, LI Jie, LIU QingChao, ZHANG PeiXing, LI KeQiang. Evolution path of multimodal collaborative optimization and training techniques for end-to-end autonomous driving systems. SCIENTIA SINICA Technologica, 2025, 55(10): 1638–1658. DOI: 10.1360/SST-2025-0063）
-1. Qin, Detong, Qingfan Wang, Quan Li, Tianle Lu, **Chen Chen**, Hong Wang, and Bingbing Nie. "When Do Drivers Maneuver: Experimental Investigation and Inference of Perception-Response Time for Tailored Safety Systems in Intelligent Vehicles." IEEE Transactions on Human-Machine Systems (2025). doi: 10.1109/THMS.2025.3567611.
-1. Lan, Zhiqian, Yuxuan Jiang, Yao Mu, **Chen Chen**, and Shengbo Eben Li. "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction." In The Twelfth International Conference on Learning Representations.
-3. 李升波, 江昆, 田野, **陈晨**, 孙剑, 杨殿阁. 汽车智能驾驶技术发展与趋势展望[J]. 前瞻科技, 2025, 4(2): 144-157.（LI Shengbo, JIANG Kun, TIAN Ye, CHEN Chen, SUN Jian, YANG Diange. Development and Outlook of Intelligent Driving Technology[J]. Science and Technology Foresight, 2025, 4(2): 144-157.）
-4. Gao, Zeyu, Yao Mu, **Chen Chen**, Jingliang Duan, Ping Luo, Yanfeng Lu, and Shengbo Eben Li. "Enhance sample efficiency and robustness of end-to-end urban autonomous driving via semantic masked world model." IEEE Transactions on Intelligent Transportation Systems 25, no. 10 (2024): 13067-13079.
-5. Song, Xujie, Jingliang Duan, Wenxuan Wang, Shengbo Eben Li, **Chen Chen**, Bo Cheng, Bo Zhang, Junqing Wei, and Xiaoming Simon Wang. "Lipsnet: a smooth and robust neural network with adaptive lipschitz constant for high accuracy optimal control." In International Conference on Machine Learning, pp. 32253-32272. PMLR, 2023.
-6. 李升波, 占国建, 蒋宇轩, 兰志前, 张宇航, 邹文俊, **陈晨**, 成波, and 李克强. "类脑学习型自动驾驶决控系统的关键技术." 汽车工程 45, no. 9 (2023): 1499-1515.
-7. Ren, Yangang, Jianhua Jiang, Guojian Zhan, Shengbo Eben Li, **Chen Chen**, Keqiang Li, and Jingliang Duan. "Self-learned intelligence for integrated decision and control of automated vehicles at signalized intersections." IEEE Transactions on Intelligent Transportation Systems 23, no. 12 (2022): 24145-24156.
-8. Cao, Wenhan, Jingliang Duan, Shengbo Eben Li, **Chen Chen**, Chang Liu, and Yu Wang. "Primal-dual estimator learning method with feasibility and near-optimality guarantees." In 2022 IEEE 61st Conference on Decision and Control (CDC), pp. 4104-4111. IEEE, 2022.
-9. Yao, Ying, Xiaohua Zhao, Yunlong Zhang, **Chen Chen**, and Jian Rong. "Modeling of individual vehicle safety and fuel consumption under comprehensive external conditions." Transportation Research Part D: Transport and Environment 79 (2020): 102224.
+1. Ran, Qifan, Chen Chen, Likun Wang, Yanding Yang, Liangguang Wu, Honglin Li, Bo Cheng, and Shengbo Eben Li. "IDC-driver: A human-centric framework for interactive urban driving behavior modeling." Control Engineering Practice 173 (2026): 106960.
+2. Li, Penghui; Yuan, Henan; Dong, Qianru; Yan, Ruidong; Dong,Chuniiao; *Chen, Chen*; li, shengbo Eben. Generation of High-Coverage Traffic Scenarios forEfficient Simulation Testing of Automated Driving Systems." Transactions on Intelligent Transportation Systems. [Accepted]
+3. 李升波, 李弘扬, 赵行, 蔡英凤, 朱冰, 陶吉, 汪建球, 帅斌, **陈晨**, 郜嘉鑫, 赵菲, 李杰, 刘擎超, 张培兴, 李克强. 面向端到端自动驾驶系统的多模态协同优化与训练技术演进路径. 中国科学: 技术科学, 2025, 55(10): 1638–1658. DOI: 10.1360/SST-2025-0063 (LI ShengBo, LI HongYang, ZHAO Hang, CAI YingFeng, ZHU Bing, TAO Ji, WANG JianQiu, SHUAI Bin, CHEN Chen, GAO JiaXin, ZHAO Fei, LI Jie, LIU QingChao, ZHANG PeiXing, LI KeQiang. Evolution path of multimodal collaborative optimization and training techniques for end-to-end autonomous driving systems. SCIENTIA SINICA Technologica, 2025, 55(10): 1638–1658. DOI: 10.1360/SST-2025-0063）
+4. Qin, Detong, Qingfan Wang, Quan Li, Tianle Lu, **Chen Chen**, Hong Wang, and Bingbing Nie. "When Do Drivers Maneuver: Experimental Investigation and Inference of Perception-Response Time for Tailored Safety Systems in Intelligent Vehicles." IEEE Transactions on Human-Machine Systems (2025). doi: 10.1109/THMS.2025.3567611.
+5. Lan, Zhiqian, Yuxuan Jiang, Yao Mu, **Chen Chen**, and Shengbo Eben Li. "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction." In The Twelfth International Conference on Learning Representations.
+6. 李升波, 江昆, 田野, **陈晨**, 孙剑, 杨殿阁. 汽车智能驾驶技术发展与趋势展望[J]. 前瞻科技, 2025, 4(2): 144-157.（LI Shengbo, JIANG Kun, TIAN Ye, CHEN Chen, SUN Jian, YANG Diange. Development and Outlook of Intelligent Driving Technology[J]. Science and Technology Foresight, 2025, 4(2): 144-157.）
+7. Gao, Zeyu, Yao Mu, **Chen Chen**, Jingliang Duan, Ping Luo, Yanfeng Lu, and Shengbo Eben Li. "Enhance sample efficiency and robustness of end-to-end urban autonomous driving via semantic masked world model." IEEE Transactions on Intelligent Transportation Systems 25, no. 10 (2024): 13067-13079.
+8. Song, Xujie, Jingliang Duan, Wenxuan Wang, Shengbo Eben Li, **Chen Chen**, Bo Cheng, Bo Zhang, Junqing Wei, and Xiaoming Simon Wang. "Lipsnet: a smooth and robust neural network with adaptive lipschitz constant for high accuracy optimal control." In International Conference on Machine Learning, pp. 32253-32272. PMLR, 2023.
+9. 李升波, 占国建, 蒋宇轩, 兰志前, 张宇航, 邹文俊, **陈晨**, 成波, and 李克强. "类脑学习型自动驾驶决控系统的关键技术." 汽车工程 45, no. 9 (2023): 1499-1515.
+10. Ren, Yangang, Jianhua Jiang, Guojian Zhan, Shengbo Eben Li, **Chen Chen**, Keqiang Li, and Jingliang Duan. "Self-learned intelligence for integrated decision and control of automated vehicles at signalized intersections." IEEE Transactions on Intelligent Transportation Systems 23, no. 12 (2022): 24145-24156.
+11. Cao, Wenhan, Jingliang Duan, Shengbo Eben Li, **Chen Chen**, Chang Liu, and Yu Wang. "Primal-dual estimator learning method with feasibility and near-optimality guarantees." In 2022 IEEE 61st Conference on Decision and Control (CDC), pp. 4104-4111. IEEE, 2022.
+12. Yao, Ying, Xiaohua Zhao, Yunlong Zhang, **Chen Chen**, and Jian Rong. "Modeling of individual vehicle safety and fuel consumption under comprehensive external conditions." Transportation Research Part D: Transport and Environment 79 (2020): 102224.
 
 ## 知识产权
 
@@ -127,6 +128,7 @@ about:
 
 ## 标准编制
 
-1. 智能交通协会团体标准，张晓春、孙超、邵源、林涛、李锋、田锋、张俊峰、宋家骅、杨宇星、黎木平、吕国林、孙雁飞、徐惠农、**陈晨**、郭静秋、赵晓华、林钰龙、丘建栋、严治、刘杨泽西、伍毅平、郭淼、张永捷、叶卿、张凯、韩广广。基于车辆轨迹数据的汽车驾驶人驾驶行为安全性评价规范，T/CITSA 03-2020，2020.07.28.
+1. 中国国际经济技术合作促进会，李升波、郑远、朱茂飞、叶智锐、王立国、陈晨、万斌、王超、张芬、吕尧、李金鹏、李明、刘岩、吴永利、汪贤峰、成伟伟、徐敬铭、包瑾、田歆。 智能网联汽车导航辅助驾驶系统安全性评价方法，T/CIET 1669—2025，2025.08.20.
+2. 智能交通协会团体标准，张晓春、孙超、邵源、林涛、李锋、田锋、张俊峰、宋家骅、杨宇星、黎木平、吕国林、孙雁飞、徐惠农、**陈晨**、郭静秋、赵晓华、林钰龙、丘建栋、严治、刘杨泽西、伍毅平、郭淼、张永捷、叶卿、张凯、韩广广。基于车辆轨迹数据的汽车驾驶人驾驶行为安全性评价规范，T/CITSA 03-2020，2020.07.28.
 
 
